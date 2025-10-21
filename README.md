@@ -329,8 +329,6 @@ Stop spending hours on calculations. Stop worrying about errors. Stop losing sle
 
 ---
 
-## Screenshots
-
 <h2>Screenshots</h2>
 
 <p align="center">
@@ -339,6 +337,21 @@ Stop spending hours on calculations. Stop worrying about errors. Stop losing sle
   <img src="screenshots/Screenshot 2025-10-20 213611.png" width="300">
 </p>
 
+<p align="center">
+  <img src="screenshots/Screenshot 2025-10-20 213624.png" width="300">
+  <img src="screenshots/Screenshot 2025-10-20 213709.png" width="300">
+  <img src="screenshots/Screenshot 2025-10-21 091252.png" width="300">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot 2025-10-21 091321.png" width="300">
+  <img src="screenshots/Screenshot 2025-10-21 091339.png" width="300">
+  <img src="screenshots/Screenshot 2025-10-21 091447.png" width="300">
+</p>
+
+<p align="center">
+  <img src="screenshots/Screenshot 2025-10-21 092053.png" width="300">
+</p>
 
 **Made with ❤️ for Pump Owners by Pump Owner Who Value Their Time**
 
