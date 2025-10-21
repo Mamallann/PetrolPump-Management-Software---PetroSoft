@@ -87,7 +87,7 @@ No more calculators, no more Excel formulas, no more DSR stress!
 
 ## 📥 Installation
 
-1. **Run** `PetroSoft_Setup.exe`
+1. **Run** [PetroSoft_Setup.exe](https://github.com/Mamallann/PetrolPump-Management-Software---PetroSoft/releases/)
 2. **Click** "Install"
 3. **Done!** Launch from desktop
 
