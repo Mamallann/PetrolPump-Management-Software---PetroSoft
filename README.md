@@ -331,6 +331,8 @@ Stop spending hours on calculations. Stop worrying about errors. Stop losing sle
 
 ### Screenshots
 
+## Screenshots
+
 ![Report](screenshots/Screenshot 2025-10-20 172348.png)
 ![Splash Screen](screenshots/Screenshot 2025-10-20 213558.png)
 ![Dashboard](screenshots/Screenshot 2025-10-20 213611.png)
@@ -341,6 +343,7 @@ Stop spending hours on calculations. Stop worrying about errors. Stop losing sle
 ![Oil Sales Tracker](screenshots/Screenshot 2025-10-21 091339.png)
 ![Oil Sales Tracker 2](screenshots/Screenshot 2025-10-21 091447.png)
 ![View Report](screenshots/Screenshot 2025-10-21 092053.png)
+
 
 **Made with ❤️ for Pump Owners by Pump Owner Who Value Their Time**
 
