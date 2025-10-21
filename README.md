@@ -329,6 +329,19 @@ Stop spending hours on calculations. Stop worrying about errors. Stop losing sle
 
 ---
 
+### Screenshots
+
+![Report](screenshots/Screenshot 2025-10-20 172348.png)
+![Splash Screen](screenshots/Screenshot 2025-10-20 213558.png)
+![Dashboard](screenshots/Screenshot 2025-10-20 213611.png)
+![Hamburger Menu](screenshots/Screenshot 2025-10-20 213624.png)
+![Settings](screenshots/Screenshot 2025-10-20 213709.png)
+![Cashier Performance](screenshots/Screenshot 2025-10-21 091252.png)
+![Cashier Performance 2](screenshots/Screenshot 2025-10-21 091321.png)
+![Oil Sales Tracker](screenshots/Screenshot 2025-10-21 091339.png)
+![Oil Sales Tracker 2](screenshots/Screenshot 2025-10-21 091447.png)
+![View Report](screenshots/Screenshot 2025-10-21 092053.png)
+
 **Made with ❤️ for Pump Owners by Pump Owner Who Value Their Time**
 
 © 2025 PetroSoft. All rights reserved.
