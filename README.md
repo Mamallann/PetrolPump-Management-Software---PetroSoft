@@ -8,12 +8,12 @@
 
 **Tired of spending 2-3 hours daily on DSR calculations?**
 
-- ❌ Manual tank dip volume calculations
-- ❌ Confusing meter reading math
-- ❌ Cash counting errors
-- ❌ Credit tracking mess
-- ❌ Variance calculations giving you headaches
-- ❌ Making Excel sheets from scratch daily
+- ✔️ Manual tank dip volume calculations
+- ✔️ Confusing meter reading math
+- ✔️ Cash counting errors
+- ✔️ Credit tracking mess
+- ✔️ Variance calculations giving you headaches
+- ✔️ Making Excel sheets from scratch daily
 
 ### ✅ PetroSoft Does It All in 5 Minutes!
 
