@@ -197,10 +197,13 @@ No more calculators, no more Excel formulas, no more DSR stress!
 
 5. **Enable in PetroSoft**
    - Settings → Toggle "Google Drive Backup" ON
-   - Upload any report → Browser opens
-   - Login → Allow access → Done!
 
-**Need Help?** WhatsApp: +91 8110003741 Mail:mamallan@protonmail.com
+⚠️ you have to delete the old credentials.json and reauthenticate if token revoked
+   Located in "donotopen/credentials.json"
+
+**Need Help?**
+WhatsApp: +91 8110003741
+Mail:mamallan@protonmail.com
 
 ---
 
